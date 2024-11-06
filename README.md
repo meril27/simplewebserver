@@ -63,8 +63,6 @@ content='''
    
 
 </html>
-
-
 '''
 
 class MyServer(BaseHTTPRequestHandler):
